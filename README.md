@@ -75,7 +75,7 @@ src/
 
 - Source code included
 - Component library included
-- Screenshot files included in public/screenshots
+- Screenshot files included in screenshots/
 - README included
 - No paid tools used
 
@@ -85,8 +85,8 @@ This project is ready for GitHub submission.
 
 The following files are included with the repository:
 
-- public/screenshots/image.png
-- public/screenshots/image-copy.png
-- public/screenshots/image-copy-2.png
-- public/screenshots/image-copy-3.png
-- public/screenshots/image-copy-4.png
+- screenshots/image.png
+- screenshots/image-copy.png
+- screenshots/image-copy-2.png
+- screenshots/image-copy-3.png
+- screenshots/image-copy-4.png
